@@ -1,9 +1,17 @@
-.nav1{
-    background-color: red;
-}
-/* #nav1ul{
-    margin:0 auto;
-    width:80%;
-    display:flex;
-}    */
 
+
+.nav1{
+    background-color: rgb(161, 31, 31);
+}
+
+
+.centered-text{
+    color: aliceblue;
+    font-size: 100px;
+    text-shadow: 2px 5px 10px black;
+
+    position: absolute;
+    top: 60%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
