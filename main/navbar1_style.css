@@ -13,11 +13,13 @@
 }
 
 #nav-1-items{
-    transition: text-shadow 0.2s ease-out 10ms
+    transition: text-shadow 0.2s ease-out 10ms;
 }
 
 #nav-1-items:hover{
-    text-shadow: 5px 5px 5px gray;
+    /* text-shadow: 5px 5px 5px gray; */
+    -webkit-text-stroke: 0.5px black;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
 }
 
 #vertical {
