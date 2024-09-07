@@ -4,7 +4,15 @@
     text-shadow: 2px 5px 10px black;
 
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 15%;
     transform: translate(-50%, -50%);
+}
+#pre-button{    
+    position: absolute;
+    left: 1%;
+}
+#next-button{
+    position: absolute;
+    right: 1%;
 }

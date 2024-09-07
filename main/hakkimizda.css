@@ -1,0 +1,11 @@
+.full-page{
+    background-color: antiquewhite;
+    margin: 0 auto;
+    width: 95%;
+}
+
+#baslik{
+    padding-top: 20px;
+    text-align: center;
+    font-family:'Times New Roman', serif;
+}
