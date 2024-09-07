@@ -1,10 +1,10 @@
 .centered-text{
     color: aliceblue;
-    font-size: 100px;
+    font-size: 5vw;
     text-shadow: 2px 5px 10px black;
 
     position: absolute;
-    top: 70%;
+    top: 60%;
     left: 15%;
     transform: translate(-50%, -50%);
 }

@@ -1,3 +1,7 @@
+.navbar-nav1{
+    margin-left: 40%;
+}
+
 .nav1{
     background-color: rgb(29, 27, 27);
 }
@@ -13,6 +17,7 @@
 }
 
 #nav-1-items{
+    padding-right: 100%;
     transition: text-shadow 0.2s ease-out 10ms;
 }
 
@@ -26,21 +31,30 @@
     border-right: 1px solid black;
     height: 50%;
 }
-.nav2-mail{
-    padding-right: 50%;
-
-}
-#social-logo{
-    width: -20%;
-    height: -20%;
-    -webkit-text-stroke: 0.5px black;
-    margin-left : 260%;
-}
 #mail{
-    -webkit-text-stroke: 0.5px black;
-    margin-left: -95%;
+    display: inline-block;
+    -webkit-text-fill-color: white;
+    /* margin-left: 550%; */
+    /* padding: 50% */
 }
 #phone{
-    -webkit-text-stroke: 0.5px black;
-    margin-left: -100%;
+    display: inline-block;
+    -webkit-text-fill-color: white;
+    /* margin-left: 650%; */
+    /* padding: 60% */
+
+}
+.mail-item{
+    display: inline-block;
+}
+.left-nav{
+    float:left;
+    width: 120%;
+}
+.right-nav{
+    float: right;
+    width: 50%;
+}
+.social-icon{
+    margin-left: 200px;
 }
