@@ -11,3 +11,30 @@
     margin-left:20%;
     box-shadow: -10px 5px 10px black;
 }
+#left-title{
+    text-align: left;
+    margin-left: 100px;
+    text-decoration-line: underline;
+}
+#left-text{
+    text-align: left;
+    margin-left: 30px;
+}
+#right-title{
+    text-align:right;
+    margin-right: 100px;
+    text-decoration-line: underline;
+}
+#right-text{
+    text-align: right;
+    margin-right: 30px;
+}
+.card-body{
+    background-color: rgb(207, 206, 206);
+    transition: background-color 0.8s ease-out 10ms
+}
+
+.card-body:hover{
+    background-color: white;
+}
+

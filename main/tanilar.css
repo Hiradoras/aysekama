@@ -1,0 +1,13 @@
+.full-page{
+    background-color:rgb(247, 253, 165);
+    width: 95%;
+    margin: 0 auto;
+}
+#left-card{
+    margin-left:5%;
+    box-shadow: 10px 5px 10px black;
+}
+#right-card{
+    margin-left:20%;
+    box-shadow: -10px 5px 10px black;
+}
