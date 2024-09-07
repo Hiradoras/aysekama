@@ -34,15 +34,10 @@
 #mail{
     display: inline-block;
     -webkit-text-fill-color: white;
-    /* margin-left: 550%; */
-    /* padding: 50% */
 }
 #phone{
     display: inline-block;
     -webkit-text-fill-color: white;
-    /* margin-left: 650%; */
-    /* padding: 60% */
-
 }
 .mail-item{
     display: inline-block;
@@ -52,8 +47,8 @@
     width: 120%;
 }
 .right-nav{
-    float: right;
-    width: 50%;
+    float: left;
+    width: 70%;
 }
 .social-icon{
     margin-left: 200px;
