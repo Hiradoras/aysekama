@@ -16,3 +16,11 @@
     position: absolute;
     right: 1%;
 }
+#full_page{
+    width: 95%;
+    margin: 0 auto;
+}
+#map{
+    margin-top: 20px;
+    box-shadow: 10px 5px 10px black;
+}
