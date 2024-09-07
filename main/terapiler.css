@@ -3,17 +3,30 @@
     width: 95%;
     margin: 0 auto;
 }
+
+
 #left-card{
     margin-left:5%;
     box-shadow: 10px 5px 10px black;
+    transition: box-shadow 0.2s ease-out 10ms
 }
+#left-card:hover{
+    box-shadow: 15px 10px 30px black;
+}
+
+
 #right-card{
     margin-left:20%;
     box-shadow: -10px 5px 10px black;
+    transition: box-shadow 0.2s ease-out 10ms
 }
+#right-card:hover{
+    box-shadow: -15px 10px 30px black;
+}
+
 #left-title{
     text-align: left;
-    margin-left: 100px;
+    margin-left: 150px;
     text-decoration-line: underline;
 }
 #left-text{
@@ -22,7 +35,7 @@
 }
 #right-title{
     text-align:right;
-    margin-right: 100px;
+    margin-right: 150px;
     text-decoration-line: underline;
 }
 #right-text{
