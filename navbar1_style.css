@@ -10,15 +10,9 @@
     height: 27%;
     margin-left: 5%;
 }
-
-#nav-2-items{
-    padding-right: 15%;
-    text-shadow: 1px 2px 40px black;
-}
-
 #nav-1-items{
     padding-right: 100%;
-    transition: text-shadow 0.2s ease-out 10ms;
+    transition: text-shadow 0.2s ease-out 10ms; 
 }
 
 #nav-1-items:hover{
@@ -43,13 +37,14 @@
     display: inline-block;
 }
 .left-nav{
+    margin-left: 6vw;
     float:left;
-    width: 120%;
+    margin-right: 60%;
 }
 .right-nav{
     float: left;
-    width: 70%;
+    /* width: 70%; */
 }
-.social-icon{
+/* .social-icon{
     margin-left: 200px;
-}
+} */
