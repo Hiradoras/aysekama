@@ -1,3 +1,7 @@
+#index-body{
+    background-color: rgb(161, 31, 31);
+}
+
 .centered-text{
     color: aliceblue;
     font-size: 5vw;
@@ -38,8 +42,8 @@
     border-left: 1px solid black;
 }
 .carousel-item{
-    height: 50vw;
     object-fit: cover;
+    height: 40vw;
 }
 /* .insta-post{
     box-shadow: 10px 5px 10px black;
@@ -47,4 +51,7 @@
 #carouselExampleInterval{
     min-width: fit-content;
     min-height: 100%;
+}
+#instagram-posts-carousel{
+    margin-left: 20%;
 }
