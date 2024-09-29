@@ -39,7 +39,7 @@
     text-decoration-line: underline;
 }
 #right-text{
-    text-align: right;
+    text-align: left;
     margin-right: 30px;
 }
 .card-body{
