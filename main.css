@@ -33,7 +33,7 @@
 }
 #summary{
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     font-family: 'Times New Roman', serif;
     /* background-color: white; */
     
@@ -75,7 +75,7 @@
     height: 40vw;
 }
 /* .insta-post{
-    box-shadow: 10px 5px 10px black;
+    height: 20vw;
 } */
 #carouselExampleInterval{
     min-width: fit-content;
