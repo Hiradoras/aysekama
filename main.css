@@ -1,5 +1,5 @@
 #index-body{
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(224,224,224);
 }
 
 .centered-text{
@@ -35,7 +35,7 @@
     font-size: 20px;
     text-align: left;
     font-family: 'Times New Roman', serif;
-    background-color: white;
+    /* background-color: white; */
     
 }
 .summary-box{
@@ -45,6 +45,8 @@
 .takvim{
     background-color: white;
     text-align: left;
+    border: 3px solid black;
+    border-radius: 3%;
 }
 .takvim li {
     display: flex;
@@ -58,6 +60,7 @@
     margin-left: 5px;
   }
 #bottom-infos{
+    background-color: black;
     margin-top: 5vw;
 }
 #bottom-info-list{
@@ -80,4 +83,7 @@
 }
 #instagram-posts-carousel{
     margin-left: 20%;
+}
+.bottom-text{
+    color: white;
 }

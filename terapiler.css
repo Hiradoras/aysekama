@@ -1,6 +1,6 @@
 .full-page{
-    background-color:rgb(247, 253, 165);
-    width: 95%;
+    background-color:rgb(224, 224, 224);
+    /* width: 95%; */
     margin: 0 auto;
 }
 
@@ -25,21 +25,21 @@
 }
 
 #left-title{
-    text-align: left;
-    margin-left: 150px;
+    text-align: center;
+    /* margin-left: 150px; */
     text-decoration-line: underline;
 }
 #left-text{
-    text-align: left;
+    /* text-align: left; */
     margin-left: 30px;
 }
 #right-title{
-    text-align:right;
-    margin-right: 150px;
+    text-align:center;
+    /* margin-right: 150px; */
     text-decoration-line: underline;
 }
 #right-text{
-    text-align: left;
+    /* text-align: left; */
     margin-right: 30px;
 }
 .card-body{
@@ -50,4 +50,10 @@
 .card-body:hover{
     background-color: white;
 }
-
+.terapi-fotolar{
+    height: 30vw;
+}
+.card-text{
+    text-align:center;
+    font-size: larger;
+}
