@@ -13,6 +13,8 @@
     transform: translate(-50%, -50%);
     font-family:'Gill Sans',sans-serif;
     opacity: 90%;
+    width: 100%;
+    background-color: black;
 }
 #pre-button{    
     position: absolute;
