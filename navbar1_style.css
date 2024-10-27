@@ -18,7 +18,7 @@
 #nav-1-items:hover{
     /* text-shadow: 5px 5px 5px gray; */
     -webkit-text-stroke: 0.5px black;
-    text-shadow: rgb(0, 0, 0) 1px 0px 40px;
+    /* text-shadow: rgb(0, 0, 0) 1px 0px 40px; */
 }
 
 #vertical {
