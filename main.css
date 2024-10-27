@@ -72,7 +72,7 @@
 }
 .carousel-item{
     object-fit: cover;
-    height: 80vw;
+    /* height: 65vw; */
 }
 /* .insta-post{
     height: 20vw;
