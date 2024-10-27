@@ -7,7 +7,7 @@
 
 #left-card{
     margin-left:5%;
-    box-shadow: 10px 5px 10px black;
+    box-shadow: 5px 0px 30px black;
     transition: box-shadow 0.2s ease-out 10ms
 }
 #left-card:hover{
@@ -17,7 +17,7 @@
 
 #right-card{
     margin-left:20%;
-    box-shadow: -10px 5px 10px black;
+    box-shadow: -5px 0px 30px black;
     transition: box-shadow 0.2s ease-out 10ms
 }
 #right-card:hover{

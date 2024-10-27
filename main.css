@@ -29,7 +29,7 @@
     box-shadow: 10px 5px 10px black;
 }
 .carousel{
-    box-shadow: 0px 5px 10px 10px black;
+    box-shadow: 0px 0px 30px 0px black;
 }
 #summary{
     font-size: 20px;
@@ -60,7 +60,7 @@
     margin-left: 5px;
   }
 #bottom-infos{
-    background-color: black;
+    background-color: rgb(24, 24, 24);
     margin-top: 5vw;
 }
 #bottom-info-list{
@@ -72,7 +72,7 @@
 }
 .carousel-item{
     object-fit: cover;
-    height: 40vw;
+    height: 45vw;
 }
 /* .insta-post{
     height: 20vw;
