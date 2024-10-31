@@ -49,11 +49,18 @@
     text-align: left;
     border: 3px solid black;
     border-radius: 3%;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
 }
 .takvim li {
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    font-size: small;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .takvim li span {
@@ -67,6 +74,7 @@
 }
 #bottom-info-list{
     text-align: left;
+    font-size: small;
 }
 #bottom-middle-col{
     border-right: 1px solid black;
