@@ -74,7 +74,7 @@
 }
 #bottom-info-list{
     text-align: left;
-    font-size: smaller;
+    font-size: 14px;
 }
 #bottom-middle-col{
     border-right: 1px solid black;
@@ -96,4 +96,5 @@
 }
 .bottom-text{
     color: white;
+    font-size: 14px;
 }
