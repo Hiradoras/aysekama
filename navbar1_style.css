@@ -12,7 +12,8 @@
 }
 #nav-1-items{
     padding-right: 100%;
-    transition: text-shadow 0.2s ease-out 10ms; 
+    transition: text-shadow 0.2s ease-out 10ms;
+    font-size: smaller;
 }
 
 #nav-1-items:hover{
@@ -28,10 +29,12 @@
 #mail{
     display: inline-block;
     -webkit-text-fill-color: white;
+    font-size: 14px;
 }
 #phone{
     display: inline-block;
     -webkit-text-fill-color: white;
+    font-size: 14px;
 }
 .mail-item{
     display: inline-block;
